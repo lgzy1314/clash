@@ -1,3 +1,9 @@
 # 内容：Emby代理连接
+
+# 域名后缀匹配
 DOMAIN-SUFFIX,emby.moe
 DOMAIN-SUFFIX,niceduck.lol
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,emby
+DOMAIN-KEYWORD,niceduck
